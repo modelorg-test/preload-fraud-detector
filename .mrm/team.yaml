@@ -1,0 +1,6 @@
+model_owners:
+- fraud-team@modelorg.com
+mrm_group:
+- validation-lead@modelorg.com
+validation_team:
+- external-auditor@modelorg.com

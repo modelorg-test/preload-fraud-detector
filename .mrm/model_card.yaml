@@ -1,0 +1,12 @@
+name: Transaction Fraud Detector
+description: Real-time anomaly detection for SWIFT/SEPA transfers using Gradient Boosting.
+stage: validation
+current_version: 1.0.0
+risk_tier: critical
+framework: xgboost
+owner: fraud-team
+scope: Payment processing
+tags:
+  domain: fraud
+  channel: swift
+  env: validation

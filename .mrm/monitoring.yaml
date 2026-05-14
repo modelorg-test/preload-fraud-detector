@@ -1,0 +1,10 @@
+drift_detection: true
+features:
+- transaction_amount
+- merchant_category
+- user_velocity
+psi_threshold: 0.1
+quality_metrics:
+- completeness
+- uniqueness
+schedule: hourly
